@@ -1,4 +1,4 @@
-// Initializing Variables with the Assignment Operator
+// Ex4: Initializing Variables with the Assignment Operator
 // Define a variable a with var and initialize it to a value of 9.
 
 // Example
